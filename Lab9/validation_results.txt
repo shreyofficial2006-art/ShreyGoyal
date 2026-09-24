@@ -1,0 +1,24 @@
+Executed UTC: 2026-09-24T16:43:40.453212+00:00
+Python: 3.14.7
+Command: python -B -m unittest discover -s Lab9 -v
+Exit status: 0
+
+test_all_published_lab_endpoint_answers (test_proforma.ProformaTests.test_all_published_lab_endpoint_answers) ... ok
+test_all_years_balance_link_cash_and_meet_floor (test_proforma.ProformaTests.test_all_years_balance_link_cash_and_meet_floor) ... ok
+test_command_line_refusals_emit_no_price_and_base_case_recovers (test_proforma.ProformaTests.test_command_line_refusals_emit_no_price_and_base_case_recovers) ... ok
+test_first_year_with_separate_decimal_arithmetic (test_proforma.ProformaTests.test_first_year_with_separate_decimal_arithmetic) ... ok
+test_incomplete_forecast_refused (test_proforma.ProformaTests.test_incomplete_forecast_refused) ... ok
+test_intermediate_years_against_tutorial (test_proforma.ProformaTests.test_intermediate_years_against_tutorial) ... ok
+test_invalid_opening_shares_and_nonfinite_inputs (test_proforma.ProformaTests.test_invalid_opening_shares_and_nonfinite_inputs) ... ok
+test_no_automatic_tax_credit_on_loss (test_proforma.ProformaTests.test_no_automatic_tax_credit_on_loss) ... ok
+test_no_floor_plan_can_balance_but_is_not_liquid (test_proforma.ProformaTests.test_no_floor_plan_can_balance_but_is_not_liquid) ... ok
+test_offsetting_equity_cannot_hide_broken_cash_link (test_proforma.ProformaTests.test_offsetting_equity_cannot_hide_broken_cash_link) ... ok
+test_required_cash_break_blocks_valuation (test_proforma.ProformaTests.test_required_cash_break_blocks_valuation) ... ok
+test_revolver_draw_then_repay_and_charge_opening_interest (test_proforma.ProformaTests.test_revolver_draw_then_repay_and_charge_opening_interest) ... ok
+test_terminal_growth_at_or_above_discount_rate_refused (test_proforma.ProformaTests.test_terminal_growth_at_or_above_discount_rate_refused) ... ok
+test_terminal_repays_no_further_debt_and_discounts_five_years (test_proforma.ProformaTests.test_terminal_repays_no_further_debt_and_discounts_five_years) ... ok
+
+----------------------------------------------------------------------
+Ran 14 tests in 1.455s
+
+OK

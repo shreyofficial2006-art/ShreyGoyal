@@ -1,0 +1,17 @@
+Executed UTC: 2026-09-24T16:43:40.453212+00:00
+Python: 3.14.7
+Command: python -B dcf.py
+Exit status: 0
+
+FCFF Year 1: 108.0000
+FCFF Year 2: 114.4800
+FCFF Year 3: 120.2040
+FCFF Year 4: 125.0122
+FCFF Year 5: 128.7625
+Present value of the explicit FCFF: 448.4408
+Terminal value at Year 5: 1894.6486
+Present value of the terminal value: 1176.4277
+Enterprise value: 1624.8685
+Equity value: 1374.8685
+Value per diluted share: 27.4974
+Present value of the terminal value as a share of enterprise value: 0.7240
